@@ -1,7 +1,7 @@
 
 title: "Rohit Saluja"
 author: "Rohit Saluja"
-description: ""
+description: "AI"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,10 +16,10 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  #- {file: "index.md"}
-  #- {url: "/katie.pdf", title: CV}
-  #- {url: "http://childlanglab.com", title: Lab}
-  #- {file: "blog.md"}
+  - {file: "index.md"}
+  - {url: "/katie.pdf", title: CV}
+  - {url: "http://childlanglab.com", title: Lab}
+  - {file: "blog.md"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

@@ -7,18 +7,22 @@ I'm interested in building AI systems. Currently working in the NLP and NLG doma
 
 ## Work Expereince
 
+### Flowrite
+
+
+
 
 ## Education
 
 
-`2018-2020`
-__KTH Royal Institute of Technology, Sweden.__
+`2018-2020: Sweden`
+__KTH Royal Institute of Technology__
 
-`2018 - 2020`
+`2018-2020: Finland`
 __Aalto Univeristy, Finland__
 
-`2013 - 2017`
-__Birla Institute of Technology and Science (BITS), Pilani, India__
+`2013-2017: India`
+__Birla Institute of Technology and Science (BITS), Pilani__
 
 
 

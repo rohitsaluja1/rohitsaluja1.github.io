@@ -9,7 +9,7 @@ I'm interested in building AI systems. Currently working in the NLP and NLG doma
 ## Work Expereince
 
 ### AI Engineer
-*[Flowrite](www.flowrite.com), Helsinki, Finland*
+*[Flowrite](https://www.flowrite.com), Helsinki, Finland*
 
 Working extensively with all things related to large language models like GPT-3 from leveraging their generation capabilities to build products to creating custom metrics to fight against their stochasticity.
 

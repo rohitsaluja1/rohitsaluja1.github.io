@@ -26,6 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:salujarohit@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/rohitsaluja1"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/imrohitsaluja"}
+  - {title: Scholar, icon: google, url: "https://scholar.google.com/citations?user=JjI4prgAAAAJ&hl=en"}
 
 
 remote_theme: niklasbuschmann/contrast@v2.11

@@ -33,7 +33,7 @@ Build the largest food-sharing platform at Aalto University in Finland.
 Time series forecasting and explainable AI (XAI) for mutivariate time series forecating model to extract actionable insigts for sales strategy. 
 
 ### ML Engineer - Internship
-*Aalto University (www.aalto.com), Helsinki, Finland*
+*[Aalto University](www.aalto.com), Helsinki, Finland*
 
 Built an IT support ticket classifer POC for IT services department to help expedite the customer support service process by roughly 50%.
 

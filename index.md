@@ -48,6 +48,7 @@ An attempt at personalized diagnostics for brain tumors patients.
 
 Built a queue-busting platform to help bring down waiting time for users from hours to few mins at most places.
 
+---
 ## Education
 
 
@@ -60,10 +61,7 @@ __Aalto Univeristy, Finland__
 `2013-2017: India`
 __Birla Institute of Technology and Science (BITS), Pilani__
 
-
-
-
-
+---
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->

@@ -26,7 +26,7 @@ Explainable AI (XAI) for medical medical images derived from the wireless capsul
 ### Co-founder
 *FOODL*, Espoo, Finland
 
-Build the largest food-sharing platform at Aalto University in Finland. 
+Build the largest food-sharing platform at Aalto University in Finland. The platform was open-sourced and is now run by community voluteers. I've moved to a more passive role.
 
 ### Data Scientist – Thesis Worker
 *[Futurice](https://www.futurice.com), Helsinki, Finland*

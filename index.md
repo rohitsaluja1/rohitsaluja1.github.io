@@ -7,10 +7,45 @@ I'm interested in building AI systems. Currently working in the NLP and NLG doma
 
 ## Work Expereince
 
-### Flowrite
+### AI Engineer
+*[Flowrite](www.flowrite.com), Helsinki, Finland*
 
+Working extensively with all things related to large language models like GPT-3 from leveraging their generation capabilities to build products to creating custom metrics to fight against their stochasticity.
 
+### AI Researcher
+*[Aalto University](www.aalto.com), Espoo, Finland*
 
+Wrote the python implementation for the the library of the model agnostic explainable AI (XAI) algorithm called Contextual Importance and Utility (CIU) under the supervision of Dr. Kary Främling.
+
+### Machine Learning Researcher
+*[Aalto University](www.aalto.com), Espoo, Finland*
+
+Explainable AI (XAI) for medical medical images derived from the wireless capsule endoscopy (WCE) procedure. The objective of the project was to build a decision making support
+
+### Co-founder
+*FOODL*, Espoo, Finland
+
+Build the largest food-sharing platform at Aalto University in Finland. 
+
+### Data Scientist – Thesis Worker
+*[Futurice](www.futurice.com), Helsinki, Finland*
+
+Time series forecasting and explainable AI (XAI) for mutivariate time series forecating model to extract actionable insigts for sales strategy. 
+
+### ML Engineer - Internship
+*Aalto University (www.aalto.com), Helsinki, Finland*
+
+Built an IT support ticket classifer POC for IT services department to help expedite the customer support service process by roughly 50%.
+
+### Co-founder and ML Developer
+*NeuroGuard, Berkeley, California*
+
+An attempt at personalized diagnostics for brain tumors patients.
+
+### Co-founder and CEO
+*QB Middle East*
+
+Built a queue-busting platform to help bring down waiting time for users from hours to few mins at most places.
 
 ## Education
 

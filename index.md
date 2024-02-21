@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 ## About
-I'm interested in building AI systems. Currently working in the NLP and NLG domain, particularly with large language models (LLMs) like GPT-3. I am also a researcher in explainable AI (XAI).
+I'm interested in building AI systems and am currently working in the NLP (Natural Language Processing) and NLG (Natural Language Generation) domains, particularly with large language models (LLMs) and large multimodal models (LMMs). My interests primarily lie at the intersection of AI and product development. I am also a researcher in explainable AI (XAI).
 
 ---
 ## Work Expereince

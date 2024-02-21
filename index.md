@@ -8,10 +8,21 @@ I'm interested in building AI systems. Currently working in the NLP and NLG doma
 ---
 ## Work Expereince
 
-### AI Engineer
+### Head of AI, RightHub 
+[RightHub](https://www.righthub.com/),
+*[RightHub AI](https://www.righthub.ai/), Stockholm, Sweden*
+
+Building the future of Intellectual Property with AI.
+
+### AI Engineer, SiloGen 
+*[Silo AI](https://www.silo.ai/), Helsinki, Finland*
+
+Silo AI is Europe’s largest private AI lab. I led projects in Generative AI.
+
+### Founding AI Engineer & Research Lead 
 *[Flowrite](https://www.flowrite.com), Helsinki, Finland*
 
-Joined as Engineer/Employee #1. Working extensively with all things related to large language models like GPT-3, from leveraging their generation capabilities to build conversational AI agents to creating custom metrics to fight against their stochasticity. Thoroughly exploring the new paradigm of prompt engineering.
+Joined as Engineer/Employee #1. Worked extensively with all things related to large language models like GPT-3, from leveraging their generation capabilities to build conversational AI agents to creating custom metrics to fight against their stochasticity. Also thoroughly explored the new paradigm of prompt engineering.
 
 ### AI Researcher
 *[Aalto University](https://www.aalto.com), Espoo, Finland*

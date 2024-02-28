@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 ## About
-I'm interested in building AI systems and am currently working in the NLP and NLG domains, particularly with large language models (LLMs) and multimodal large language models(MLLMs). My interests primarily lie at the intersection of AI and product development. I am also a researcher in explainable AI (XAI).
+I’ve always seen technology as an instrument of change. With recent advancements in AI and the newfound ability to create and scale intelligence, I firmly believe we are witnessing the biggest breakthrough ever, not just in technology. I am determined to leverage AI for large-scale impacts and play a small role in creating a society of abundance in the upcoming decades.
 
 ---
 ## Work Expereince
